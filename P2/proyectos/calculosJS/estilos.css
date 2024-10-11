@@ -1,0 +1,39 @@
+* {
+    body {
+        background-image: url("fondo.jpg");
+        background-size: cover;
+        font-family: Arial, Helvetica, sans-serif;
+        height: 100vmax;
+    }
+
+    #contenedor{
+        width: 80%;
+        margin: 0% auto;
+        max-width: 1920px;
+    }
+
+    h2 {
+        padding-top: 4vw;
+        padding-bottom: 2vw;
+        color: white;
+        text-align: center;
+        font-size: 4vw;
+        font-weight: normal;
+        font-size: italic;
+    }
+
+    form{
+        color: white;
+    }
+
+    label{
+        font-size: 2em;
+    }
+
+    .caja1{
+        font-size: 1.5vw;
+        font-weight: auto;
+        color: black;
+    }
+
+}
