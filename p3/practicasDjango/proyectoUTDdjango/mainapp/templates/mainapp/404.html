@@ -1,0 +1,7 @@
+{% block content %}
+<scrip>
+alert('esta pagina no existe,lo voy a redirigir a la pagina de inicio')
+location.href = '{% url "inicio" %}'
+
+</scrip>
+{% endblock content %}
